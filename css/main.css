@@ -354,11 +354,8 @@ input.input100 {
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #7918f2;
-  background: -webkit-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
-  background: -o-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
-  background: -moz-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
-  background: linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+  background: #000;
+
 }
 
 
